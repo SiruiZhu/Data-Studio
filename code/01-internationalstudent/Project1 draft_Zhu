@@ -1,0 +1,32 @@
+#Project1 draft description_Zhu
+#July 10th
+
+
+Title: The US is suffering less internationsl students especially Chinese students over past few years.
+Data source: US Homeland security; U.S Immigration and Customs Enforcement
+
+Work I've done:
+
+I downloaded a csv from US Homeland security, it has data from 1997 to 2007 of the US issued all types of data to other countries. 
+It has several sheets in one Excel. So I get filter them one by one from different sheets. I just get the F-1 visa type and "China" as country.
+Also the total number of F-1 for that year, want to compare the  percentage of the US issued F-1 visa numbers to China. 
+
+The international student numbers csv I directly downloaded from Quarts, they've done a piece about this topic before. I've also find the 
+date source, which is nice to use. 
+
+
+
+Findings:
+
+Surprisingly, the student visas US issued to Chines and international has dropped dramatically after 2015.
+
+The factors might be various. The first one, according to some background reading, is because of the student visa policy to China.
+It changed to period of studnets visa ftom one-year to five-years on 2014 OPEC. Obama announced that. So the student visa application 
+is less than before. Also because the immigration policy during Trump era, so students are more likely to go to Austrilia or Canada. The high 
+tuition fee is also another factor might influence the result. 
+
+
+Improvements:
+1. Need to do one with international student's influence on the US economical impact or so. Which is more straightforward. 
+2. Improve the graph a bit, like the way to show the data. Maybe highlight the drop line part, and have a label saying the reason for that.
+3. Not just Chinese students, maybe look into the different continents, like "Asia", "Europe" etc. 
