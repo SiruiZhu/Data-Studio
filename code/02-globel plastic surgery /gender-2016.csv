@@ -1,0 +1,52 @@
+Procedure,FEMALE Number of Procedures,Percent of Total,Rank within Category (Surgical/Nonsurgical),MALE Number of Procedures,Percent of Total,Rank within Category (Surgical/Nonsurgical)
+Surgical Procedures:,,,,,,
+Abdominoplasty ,"696,248",1,4,"72,819",9.50%,8
+Breast Augmentation saline,"61,692",99.90%,20,87,0.10%,24
+Breast Augmentation fat transfer ,"135,101",97.80%,16,"3,053",2.20%,20
+Breast Augmentation silicone,"1,443,333",99.60%,1,6004,0.40%,16
+Breast Implant Removal  ,"154,814",99.60%,14,639,0.40%,23
+Breast Lift ,"583,192",100.00%,5,dna,dna,dna
+Breast Reduction ,"465,665",100.00%,8,dna,dna,dna
+Brow Lift ,"214,732",82.10%,11,"46,931",17.90%,11
+Buttock Augmentation fat transfer,"287,988",95.70%,10,12803,4.30%,13
+Buttock Augmentation implants only ,"29,345",93.70%,24,"1,985",6.30%,22
+Buttock Lift ,"34,275",92.20%,23,"2,882",7.80%,21
+Ear Surgery ,"188,768",63.10%,13,"110,207",36.90%,6
+Eyelid Surgery,"1,061,091",78.70%,3,"286,418",21.30%,1
+Facelift ,"366,024",85.70%,9,"61,042",14.30%,9
+Facial Bone Contouring ,"80,627",73.40%,18,"29,148",26.60%,12
+Fat Grafting-face ,"496,066",83.10%,7,"100,770",16.90%,7
+Gynecomastia ,dna, dna,dna,"236,371",100.00%,2
+Hair Transplantation,"18,567",13.70%,26,"116,487",86.30%,5
+Labiaplasty ,"138,033",100.00%,15,dna,dna,dna
+Liposuction,"1,239,349",85.30%,2,"213,992",14.70%,4
+Lower Body Lift ,"60,829",84.20%,21,"11,424",15.80%,14
+Neck Lift ,"213,315",80.80%,12,"50,735",19.20%,10
+Penile Enlargement ,dna, dna,dna,"8,434",100.00%,15
+Rhinoplasty ,"569,700",72.40%,6,"217,152",27.60%,3
+Thigh Lift,"73,507",92.50%,19,"5,969",7.50%,17
+Upper Arm Lift ,"119,680",95.30%,17,"5,877",4.70%,18
+Upper Body Lift ,"23,169",81.00%,25,"5,426",19.00%,19
+Vaginal Rejuvenation ,"55,606",100.00%,22,dna,dna,dna
+Totals Surgical Procedures ,"8,810,717",84.60%,,"1,606,653",15.40%,
+Non-Surgical Procedures:,,,,,,
+Botulinum Toxin ,"4,281,027",86.80%,1,"650,550",13.20%,1
+Calcium Hydroxylapatite ,"144,243",87.50%,12,"20,668",12.50%,12
+Cellulite Treatment ,"239,061",96.50%,9,"8,635",3.50%,16
+Chemical Peel ,"524,053",89.50%,5,"61,561",10.50%,6
+Dermabrasion ,"46,972",81.90%,17,"10,362",18.10%,14
+Full Field Ablative ,"181,614",86.10%,10,"29,230",13.90%,10
+Hair Removal ,"977,823",85.30%,3,"168,700",14.70%,3
+Hyaluronic Acid ,"3,005,250",89.10%,2,"367,194",10.90%,2
+Micro Ablative Resurfacing,"156,142",85.10%,11,"27,290",14.90%,11
+Microdermabrasion ,"318,870",88.30%,8,"42,200",11.70%,9
+Non-surgical Fat Reduction,"370,805",85.60%,7,"62,546",14.40%,5
+Non-surgical Skin Tightening ,"463,291",90.60%,6,"48,190",9.40%,8
+Photo Rejuvenation ,"552,511",88.70%,4,"70,732",11.30%,4
+Poly-L-Lactic Acid ,"68,661",86.20%,14,"11,003",13.80%,13
+Polymethylmethacrylate ,"10,805",83.70%,18,"2,100",16.30%,18
+Sclerotherapy ,"62,813",90.60%,15,"6,541",9.40%,17
+Tattoo Removal ,"89,689",60.00%,13,"59,845",40.00%,7
+Treatment of Leg Veins ,"58,308",85.00%,16,"10,255",15.00%,15
+Totals - Non-Surgical Procedure,"11,551,938",87.50%,,"1,657,601",12.50%,
+TOTALS ALL PROCEDURES,"20,362,655",86.20%,,"3,264,254",13.80%,

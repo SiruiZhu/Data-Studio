@@ -1,0 +1,30 @@
+Procedure,FEMALE Number of Procedures,Percent of Total,Rank within Category (Surgical/Nonsurgical),MALE Number of Procedures,Percent of Total,Rank within Category (Surgical/Nonsurgical)
+Breast Augmentation,"1,766,959",99.60%,1,"6,625",0.40%,16
+Breast Reduction,"637,023",99.40%,8,"4,166",0.60%,17
+Breastlift,"773,344",99.70%,5,"2,118",0.30%,18
+Ear Surgery,"240,220",61.40%,11,"151,288",38.60%,5
+Eyelid Surgery,"1,144,199",83.00%,3,"235,064",17.00%,3
+Facelift,"521,880",89.80%,9,"59,313",10.20%,10
+Facial Implants,"152,797",80.00%,13,"38,143",20.00%,11
+"Gluteoplasty, Buttock Augmentation","309,574",96.80%,10,"10,386",3.20%,14
+Gynecomastia,dna,dna,dna,"263,179",100.00%,2
+Hair Transplantation,"20,955",19.40%,17,"87,063",80.60%,7
+Lipostructure - Lipofilling - Stem Enhanced Lipofilling,"928,027",88.10%,4,"125,863",11.90%,6
+Liposuction,"1,385,883",85.90%,2,"228,148",14.10%,4
+Nose Surgery,"687,761",72.10%,7,"266,662",27.90%,1
+Penile Enlargement,dna,dna,dna,"15,414",100.00%,13
+Post Bariatric,"224,237",76.70%,12,"68,205",23.30%,8
+Threadlifts,"145,633",88.20%,14,"19,568",11.80%,12
+Tummy Tuck,"771,784",92.00%,6,"67,080",8.00%,9
+Upper Armlift - Brachioplasty,"118,801",93.80%,15,"7,840",6.20%,15
+Vaginal Rejuvination - Labiaplasty,"114,135",100.00%,16,dna,dna,dna
+Totals - Surgical Procedures,"9,943,211",85.70%,,"1,656,125",14.30%,
+Non-Surgical Procedures:,,,,,,
+Botulinum Toxin,"4,501,514",87.50%,1,"643,675",12.50%,1
+"Chemical Peel, CO2 Resurfacing, Dermabrasion","682,647",88.30%,5,"90,795",11.70%,4
+"Facial Rejuvenation, non-invasive","1,223,520",93.60%,3,"83,780",6.40%,5
+"Fillers, Resorbable","2,787,799",90.20%,2,"301,887",9.80%,2
+Laser hair Removal,"1,222,720",84.90%,4,"217,533",15.10%,3
+Sclerotherapy,"109,771",92.20%,6,"9,296",7.80%,6
+Totals - Non-Surgical Procedure,"10,527,971",88.70%,,"1,346,966",11.30%,
+TOTALS ALL PROCEDURES,"20,471,182",87.20%,,"3,003,091",12.80%,
