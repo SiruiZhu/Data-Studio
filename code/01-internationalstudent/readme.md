@@ -30,6 +30,11 @@ For my first revision, I styled the charts to look better.
 For my second revision, I got feedbacks from instructor and coursemates, so I followed their feedback, I changed
 the legend and and the size of the title. 
 
+## Files description:
+- There is a notebook for my data analysis and visualization process.
+- Output images are my four charts related to this project.
+- My datasets are those three files.
+
 ## Data Sources
 [government statistics](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html)
 
