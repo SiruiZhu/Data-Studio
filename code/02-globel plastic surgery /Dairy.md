@@ -12,5 +12,7 @@ to get eyelid surgery, and many of my friends and my parents' friends take injec
   
 - I styled it a bit in Illustrator;
 
+- For my second revision, I've changed the first the last graphic more readable. Narrow the first chart to top 10 countries, and sort values for the last graphic.
+
 ## Data source:
 [International Society of Aesthetic Plastic Surgery.](https://www.isaps.org/medical-professionals/isaps-global-statistics/)
